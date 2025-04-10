@@ -1,0 +1,14 @@
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\bin\Debug\net9.0\LAB_3.exe
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\bin\Debug\net9.0\LAB_3.deps.json
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\bin\Debug\net9.0\LAB_3.runtimeconfig.json
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\bin\Debug\net9.0\LAB_3.dll
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\bin\Debug\net9.0\LAB_3.pdb
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.AssemblyInfoInputs.cache
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.AssemblyInfo.cs
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.csproj.CoreCompileInputs.cache
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.dll
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\obj\Debug\net9.0\refint\LAB_3.dll
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.pdb
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\obj\Debug\net9.0\LAB_3.genruntimeconfig.cache
+E:\Nikita\ООП\ARTEM\LAB_3\LAB_3\obj\Debug\net9.0\ref\LAB_3.dll
